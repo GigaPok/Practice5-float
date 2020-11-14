@@ -18,6 +18,7 @@ h3 {
 }
 .div-back {
     background-color: #F8F8F8;
+    float: left;
 }
 h1 {
     font-family: 'Poppins';
@@ -70,4 +71,7 @@ section {
 }
 .div-back5 {
     margin-bottom: 87px;
+}
+.clear {
+    clear: both;
 }
